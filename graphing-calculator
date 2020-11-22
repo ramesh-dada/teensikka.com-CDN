@@ -110,3 +110,4 @@ function render() {
   <canvas width="600px" height="300px" id="myCanvas"></canvas>
 
 </body>
+</html>
