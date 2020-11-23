@@ -1,0 +1,22 @@
+{
+    "name": "G STUDIES",
+    "short_name": "G STUDIES",
+    "icons": [
+        {
+            "src": "https://cdn.teensikka.com/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-U2C76kc7-f0/X1dr1-QrtyI/AAAAAAAABUU/0rGwqohWuSQvxpRbgp31VZ0BX_nWYDi2gCLcBGAsYHQ/s0/gstudies.gstores.in.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f7f9fa",
+    "background_color": "#f7f9fa",
+    "start_url": "https://www.teensikka.com/?m=1",
+    "display": "standalone",
+    
+    ]
+}
