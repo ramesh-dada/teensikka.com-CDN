@@ -1,0 +1,22 @@
+{
+  "name": "Snow Walls",
+  "short_name": "Snow Walls",
+  "start_url": "/?m=1",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#59d6ff",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-t2z4Uj-KpQI/X745aExs4wI/AAAAAAAAAdE/uh0Xk_MSZ4cmmAcRoK-sJEiGMewd5Wz1QCLcBGAsYHQ/s0/android-chrome-192x192%255B1%255D.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-WdU0pPED2_8/X745V-WRHsI/AAAAAAAAAdA/QxK8H4Hr1PAL4RAcO4iEdds6bkQ7xQ2qACLcBGAsYHQ/android-chrome-512x512%255B1%255D.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+}
